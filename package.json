@@ -1,0 +1,15 @@
+{
+    "name": "error-helper",
+    "version": "0.1.0",
+    "author": {
+        "name": "Kristján Ingi Mikaelsson",
+        "email": "kristjanmik@gmail.com"
+    },
+    "description": "A helper to produce better errors with http status codes",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kristjanmik/error-helper.git"
+    },
+    "dependencies": {
+    }
+}
